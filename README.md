@@ -63,6 +63,8 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 ---
 ## Original image:
 <img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/47da8ef0-cd53-40bf-afef-5fa1cdf9aad3" />
+
+---
 ## Generated image:
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/028289ce-e17a-4515-9478-7a74b7218a03" />
 
@@ -112,9 +114,12 @@ Add: `Bugatti-like curves, smooth aerodynamic body` if needed.
 
 ## **5. Final Prompt (Use for DALL·E / MidJourney / Stable Diffusion)**
 `A surreal futuristic cityscape with tall skyscrapers and glowing city lights in teal and orange tones, shown in a perfect vertical mirror reflection that creates a duplicated skyline. Atmospheric haze, bright streetlights, and detailed building textures with a cyberpunk aesthetic. Symmetrical composition with the city repeated upside-down across the center. High-resolution cinematic photography style.`
+
 ---
 ## Original image:
 <img width="612" height="408" alt="image" src="https://github.com/user-attachments/assets/65d1c0d4-cd33-4cb4-b136-38bb56c0d666" />
+
+---
 ## Generated image:
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c8d0ba4d-735b-41d6-a09d-717314c84d39" />
 
